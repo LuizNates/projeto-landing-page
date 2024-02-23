@@ -1,2 +1,2 @@
 # projeto-landing-page
-Este é o projeto de desenvolvimento do módulo base do curso de tecnologia da Escola DNC.
+This is a development project for the base module of the technology classes from Escola DNC.
